@@ -1,0 +1,24 @@
+{
+  "name": "basicgammaapp",
+  "version": "1.0.0",
+  "description": "Basic registration application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan-Rascon/RegistrationPage.git"
+  },
+  "keywords": [
+    "Registration",
+    "login",
+    "logout"
+  ],
+  "author": "Juan Rascon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan-Rascon/RegistrationPage/issues"
+  },
+  "homepage": "https://github.com/Juan-Rascon/RegistrationPage#readme"
+}
